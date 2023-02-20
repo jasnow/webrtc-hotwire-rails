@@ -1,4 +1,5 @@
 # WebRTC + Hotwire + Ruby on Rails
+
 An basic video chat app using the [WebRTC Perfect Negotiation pattern](https://w3c.github.io/webrtc-pc/#perfect-negotiation-example), a sprinkling of Hotwire (mainly [Turbo Streams](https://turbo.hotwire.dev/reference/streams) & [Stimulus](https://stimulus.hotwire.dev/)), and backed by Ruby on Rails.
 
 ## How does it work?
