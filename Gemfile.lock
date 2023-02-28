@@ -142,7 +142,7 @@ GEM
     pastel (0.8.0)
       tty-color (~> 0.5)
     public_suffix (5.0.1)
-    puma (5.6.5)
+    puma (6.1.1)
       nio4r (~> 2.0)
     racc (1.6.2)
     rack (2.2.6.2)
@@ -289,7 +289,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder (~> 2.7)
   listen (~> 3.3)
-  puma (~> 5.0)
+  puma
   rails (~> 7.0)
   redis (~> 4.0)
   ruby_audit
