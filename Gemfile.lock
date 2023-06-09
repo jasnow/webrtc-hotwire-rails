@@ -138,8 +138,9 @@ GEM
     nokogiri (1.15.2)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    parser (3.2.2.1)
+    parser (3.2.2.3)
       ast (~> 2.4.1)
+      racc
     pastel (0.8.0)
       tty-color (~> 0.5)
     public_suffix (5.0.1)
