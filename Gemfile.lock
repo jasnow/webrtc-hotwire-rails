@@ -123,9 +123,9 @@ GEM
     method_source (1.0.0)
     mini_mime (1.1.2)
     mini_portile2 (2.8.4)
-    minitest (5.18.1)
+    minitest (5.19.0)
     msgpack (1.7.2)
-    net-imap (0.3.6)
+    net-imap (0.3.7)
       date
       net-protocol
     net-pop (0.1.2)
@@ -187,7 +187,7 @@ GEM
     redis-client (0.14.1)
       connection_pool
     regexp_parser (2.8.1)
-    rexml (3.2.5)
+    rexml (3.2.6)
     ruby_audit (2.2.0)
       bundler-audit (~> 0.9.0)
     ruby_parser (3.20.3)
