@@ -246,7 +246,7 @@ GEM
     strings-ansi (0.2.0)
     temple (0.10.2)
     thor (1.2.2)
-    tilt (2.2.0)
+    tilt (2.3.0)
     timeout (0.4.0)
     tty-color (0.6.0)
     tty-cursor (0.7.1)
@@ -312,7 +312,7 @@ DEPENDENCIES
   webdrivers
 
 RUBY VERSION
-   ruby 3.3.0.preview1
+   ruby 3.3.0.preview2
 
 BUNDLED WITH
    2.5.0.dev
