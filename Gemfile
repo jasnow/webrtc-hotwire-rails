@@ -7,7 +7,7 @@ ruby File.read(".ruby-version")
 gem 'rails', '~> 7.0'
 # Use pg as the database for Active Record
 #HID:gem 'pg', '~> 1.1'
-gem "sqlite3"
+gem "sqlite3", "~> 1.4"
 # Use Puma as the app server
 gem 'puma'
 # Use SCSS for stylesheets
