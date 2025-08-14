@@ -4,7 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby File.read(".ruby-version")
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '8.0.2'
+gem 'rails', '8.0.2.1'
 gem 'ostruct'
 
 # Use pg as the database for Active Record
