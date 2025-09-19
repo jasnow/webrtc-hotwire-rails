@@ -144,7 +144,7 @@ GEM
       net-imap
       net-pop
       net-smtp
-    marcel (1.0.4)
+    marcel (1.1.0)
     matrix (0.4.3)
     mini_mime (1.1.5)
     mini_portile2 (2.8.9)
@@ -391,7 +391,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 3.4.5p51
+   ruby 3.4.6p54
 
 BUNDLED WITH
    2.7.2
